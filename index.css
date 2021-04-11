@@ -1,0 +1,32 @@
+form{
+    background-color: aqua;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 35%;
+    top: 100px;
+}
+table{
+    
+    position: relative;
+    left: 40px;
+    top: 100px;
+}
+table tr td{
+    font-size: 20px;
+     padding: 10px;
+}
+table tr td input{
+    padding: 10px;
+    width: 200px;
+    outline: none;
+}
+table tr td button{
+    padding: 6px;
+    width: 100px;
+}
+table tr td button a{
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+}
